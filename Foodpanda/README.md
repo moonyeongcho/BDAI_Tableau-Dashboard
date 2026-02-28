@@ -13,7 +13,7 @@
 - 도시별 고객의 평균 로열 포인트롸 평균 주문 빈도 (텍스트 테이블)
 - 핵심 KPI(총 주문 유저 수, 고객별 평균 평점, 주문 완료율, 평균 주문 빈도) 시각화
   
-## 3. 구성물
+## 3. 구성
 워크시트 5개와 고객 대시보드 1개로 구성했습니다.
 
 - Worksheet 1: Restaurant Bubble Chart
@@ -49,18 +49,17 @@
 - Tooltip / Highlight: 차트별 마우스오버, 선택 시 맥락 정보 확인
 
 ## 5. 배포 및 공유 방식
-GitHub README에서는 대시보드가 동적으로 실행되지 않기 때문에, 아래 방식으로 공유합니다.
+GitHub 에서는 대시보드가 실행되지 않기 때문에, 아래 링크에 들어가면 동적 대시보드를 확인할 수 있습니다.
 
 - Readme: 링크
-- Dashboard File: 스크린샷(정적)
-- Interactive link: Tableau Public(또는 Tableau Server) 공개 링크로 제공
+- Dashboard File: 스크린샷
+- Interactive link: Tableau Public 공개 링크로 제공
 
 Tableau Public link:
-- (여기에 공개 링크를 붙여 넣으세요)
+- https://public.tableau.com/app/profile/moonyeong.cho/viz/FoodpandaDashboard2/2_3
 
 ## 6. 결과 스크린샷
 - assets/tableau/dashboard_overview.png
-- assets/tableau/dashboard_customer.png
 - assets/tableau/ws1_bubble.png
 - assets/tableau/ws2_area.png
 - assets/tableau/ws3_donut.png
@@ -69,11 +68,5 @@ Tableau Public link:
 
 ## 7. 파일 안내
 - /assets/tableau/ : 스크린샷 이미지
-- /tableau/ : twbx 또는 작업 파일(공유 가능 범위에서)
-- /docs/ : 지표 정의, 계산식 정리(선택)
-
-## 8. 지표 정의(예시 텍스트)
-- 주문 완료율: 완료 주문 수 / 전체 주문 수
-- 평균 주문 빈도: 고객별 주문 수를 기간으로 정규화한 평균(프로젝트 기준 정의)
-- 고객별 평균 평점: 고객이 경험한 주문(또는 레스토랑)의 평점 평균(프로젝트 기준 정의)
-- 총 주문 유저 수: 주문 발생 고객 수(중복 제거)
+- /tableau/ : twbx 또는 작업 파일
+- /docs/ : 지표 정의, 계산식 정리
