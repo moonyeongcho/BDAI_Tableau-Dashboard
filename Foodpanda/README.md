@@ -51,22 +51,18 @@
 ## 5. 배포 및 공유 방식
 GitHub 에서는 대시보드가 실행되지 않기 때문에, 아래 링크에 들어가면 동적 대시보드를 확인할 수 있습니다.
 
-- Readme: 링크
-- Dashboard File: 스크린샷
-- Interactive link: Tableau Public 공개 링크로 제공
-
 Tableau Public link:
 - https://public.tableau.com/app/profile/moonyeong.cho/viz/FoodpandaDashboard2/2_3
 
 ## 6. 결과 스크린샷
-- assets/tableau/dashboard_overview.png
-- assets/tableau/ws1_bubble.png
-- assets/tableau/ws2_area.png
-- assets/tableau/ws3_donut.png
-- assets/tableau/ws4_table.png
-- assets/tableau/ws5_kpi.png
+- assets/dashboard_overview.png
+- assets/ws1_bubble.png
+- assets/ws2_area.png
+- assets/ws3_donut.png
+- assets/ws4_table.png
+- assets/ws5_kpi.png
 
 ## 7. 파일 안내
-- /assets/tableau/ : 스크린샷 이미지
+- /assets/ : 스크린샷 이미지
 - /tableau/ : twbx 또는 작업 파일
 - /docs/ : 지표 정의, 계산식 정리
