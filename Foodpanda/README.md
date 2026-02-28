@@ -1,5 +1,5 @@
 
-# Foodpanda Customer Dashboard (Tableau)
+# Foodpanda Customer Dashboard
 
 ## 1. 프로젝트 개요
 푸드판다(Foodpanda)는 음식 배달과 픽업 서비스를 제공하는 글로벌 배달 플랫폼입니다.
