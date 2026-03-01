@@ -54,8 +54,10 @@ README에 이미지 표시 예시:
 ## 6. 파일 안내
 - /assets/ : 대시보드 및 워크시트 스크린샷
 - /tableau/ : 태블로 twbx 파일
+- /data/ : 원본 데이터
 - (/docs/ : 지표 정의 및 계산식 정리)
 
 ## 7. 데이터
-- Marketing & E-Commerce Analytics Dataset (Kaggle)
-  (sediment://file_000000003e88720b8d9a0aaf9e70b23f)
+- Source: Kaggle, Marketing & E-Commerce Analytics Dataset
+- Link: https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset
+- File: campaigns.csv, customers.csv, events.csv, products.csv, transactions.csv
