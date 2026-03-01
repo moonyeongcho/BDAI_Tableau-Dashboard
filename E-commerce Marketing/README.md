@@ -1,5 +1,5 @@
 
-# AARRR Dashboard (Tableau) - E-commerce Marketing Analytics
+# E-commerce Marketing Analytics
 
 ## 1. 프로젝트 개요
 이커머스 플랫폼 사용자 행동/마케팅 데이터를 기반으로 유입부터 구매까지 전환 흐름을 시각화한 대시보드입니다.
