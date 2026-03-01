@@ -65,7 +65,6 @@ README에 이미지 표시 예시:
 - (/docs/ : 지표 정의, 계산식 정리)
 
 ## 7. 데이터 
-## 데이터
 - Source: Kaggle, Foodpanda Analysis Dataset 2025 
 - Link: https://www.kaggle.com/datasets/nabihazahid/foodpanda-analysis-dataset-2025/data
 - File: Foodpanda Analysis Dataset.csv
