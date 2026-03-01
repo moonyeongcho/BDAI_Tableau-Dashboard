@@ -31,7 +31,7 @@
 - Worksheet 4: City x Customer Text Table
   - 도시별 고객(또는 주문) 단위로 평균 로열 포인트, 평균 주문 빈도 텍스트 테이블
 
-- Worksheet 5: KPI cards
+- Worksheet 5: KPI cards (dashboard_overview.png에서 확인 가능)
   - 총 주문 유저 수
   - 고객별 평균 평점
   - 주문 완료율
@@ -45,7 +45,6 @@
 ## 4. 인터랙션
 - Navigation bar(좌측): Overview / Customer 버튼으로 다른 대시보드 탐색
 - Filters(좌측 패널): 지역, 날짜 연도 필터 연동
-- Tooltip / Highlight: 차트별 마우스오버, 선택 시 맥락 정보 확인
 
 ## 5. 배포 및 공유 방식
 GitHub 에서는 대시보드가 실행되지 않기 때문에, 아래 링크에 들어가면 동적 대시보드를 확인할 수 있습니다.
@@ -59,9 +58,8 @@ Tableau Public link:
 - assets/ws2_area.png
 - assets/ws3_donut.png
 - assets/ws4_table.png
-- assets/ws5_kpi.png
 
 ## 7. 파일 안내
 - /assets/ : 스크린샷 이미지
-- /tableau/ : twbx 또는 작업 파일
-- /docs/ : 지표 정의, 계산식 정리
+- /tableau/ : twbx 파일
+- (/docs/ : 지표 정의, 계산식 정리)
