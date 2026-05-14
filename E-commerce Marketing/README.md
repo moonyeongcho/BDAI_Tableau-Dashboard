@@ -37,8 +37,7 @@
 ## 4. 배포 및 공유 방식
 GitHub 에서는 대시보드가 실행되지 않기 때문에, 아래 링크에 들어가면 동적 대시보드를 확인할 수 있다.
 
-Tableau Public link
-- https://public.tableau.com/app/profile/moonyeong.cho/viz/MarketingE-CommerceDashboard2/1
+Tableau Public link: [바로가기](https://public.tableau.com/app/profile/moonyeong.cho/viz/MarketingE-CommerceDashboard2/1)
 
 ## 5. 결과 스크린샷
 - assets/dashboard_overview.png
