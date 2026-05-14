@@ -54,7 +54,6 @@ README에 이미지 표시 예시:
 ## 6. 파일 안내
 - /assets/ : 대시보드 및 워크시트 스크린샷
 - /data/ : 원본 데이터
-- (/docs/ : 지표 정의 및 계산식 정리)
 
 ## 7. 데이터
 - Source: Kaggle, Marketing & E-Commerce Analytics Dataset
