@@ -1,7 +1,6 @@
 # BDAI Tableau Dashboard
 
-> BDAI 학회 11기 Tableau 프로젝트  
-> 실제 데이터셋을 기반으로 비즈니스 인사이트를 시각화한 대시보드 2종
+> BDAI 학회 11기 Tableau 수업 과제  
 
 ---
 
